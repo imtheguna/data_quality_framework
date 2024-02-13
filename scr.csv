@@ -1,0 +1,3 @@
+screen_name,screen_ds,filename
+user_details_checks,checking the user details,user.*.csv
+checking_netflix_user,checking the netflix user details,Netflix_Userbase.*.csv
