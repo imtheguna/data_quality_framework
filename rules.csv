@@ -1,5 +1,5 @@
 rule_name,rule_ds,screen_id,rule_type,rule_query
 name_checks,checking name,1,filter,select * from user_details_checks where name='guna'
 name_checks,checking name,1,filter,select * from user_details_checks where name='h'
-user_name_null_checks,user_name_null_checks,2,filter,select * from checking_netflix_user where User_ID is null
-user_age_null_checks,user_age_null_checks,2,info,select * from checking_netflix_user where Age is null
+user_name_null_checks,user_name_null_checks,8,filter,select * from checking_netflix_user where User_ID is null
+user_age_null_checks,user_age_null_checks,8,info,select * from checking_netflix_user where Age is null
